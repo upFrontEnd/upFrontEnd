@@ -23,7 +23,6 @@
   <rect x=".5" y=".5" width="1199" height="259" rx="17.5" fill="none" stroke="#323a5c"/>
   <text x="40" y="52" fill="#ffffff" font-size="26" font-weight="700">What I do</text>
   <rect x="40" y="64" width="44" height="3" rx="1.5" fill="#009fe3"/>
-  <rect x="88" y="64" width="20" height="3" rx="1.5" fill="#b55b16"/>
 
   <g class="card" transform="translate(40 92)">
     <rect width="360" height="136" rx="12" fill="url(#panel)" stroke="#ffffff" stroke-opacity=".12"/>
