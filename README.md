@@ -86,7 +86,7 @@
   </tr>
 </table>
 
-## Flight-sim stream toolkit
+## Flight simulation stream toolkit
 
 Everything on screen during my streams is built by hand: overlays for OBS, alerts, chat and a Twitch bot.
 
