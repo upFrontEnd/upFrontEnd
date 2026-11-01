@@ -37,10 +37,13 @@
       <a href="https://www.skyflyer-aviation.com/"><img src="./assets/projects/skyflyer-website.jpg" width="100%" alt="Skyflyer Aviation website home page" /></a>
     </td>
     <td width="50%" valign="middle">
-      <h3><a href="https://github.com/upFrontEnd/skyflyer-aviation-website">Skyflyer Aviation</a></h3>
+      <h3>Skyflyer Aviation</h3>
       <p>The showcase site of my flight-sim Twitch and YouTube channel: live stream status, a Zulu clock, projects and a shop.</p>
       <p><code>Vue 3 · SCSS · Supabase · Vite</code></p>
-      <p><a href="https://www.skyflyer-aviation.com/"><b>Try it live →</b></a> &nbsp;·&nbsp; <a href="https://github.com/upFrontEnd/skyflyer-aviation-website">View code</a></p>
+      <p>
+  <a href="https://www.skyflyer-aviation.com/"><img src="https://img.shields.io/badge/LIVE_DEMO-4f9bff?style=for-the-badge&logo=googlechrome&logoColor=ffffff" alt="Live demo" /></a>
+  <a href="https://github.com/upFrontEnd/skyflyer-aviation-website"><img src="https://img.shields.io/badge/CODE-1d2533?style=for-the-badge&logo=github&logoColor=ffffff" alt="Code" /></a>
+</p>
     </td>
   </tr>
 </table>
@@ -48,10 +51,13 @@
 <table>
   <tr>
     <td width="50%" valign="middle">
-      <h3><a href="https://github.com/upFrontEnd/sephora-memory-card-game">Sephora Memory Game</a></h3>
+      <h3>Sephora Memory Game</h3>
       <p>A memory card game with a dark theme and a sound toggle, built as a clean, minimal front-end exercise.</p>
       <p><code>HTML · JavaScript · SCSS</code></p>
-      <p><a href="https://sephora-memory-card-game.netlify.app/"><b>Try it live →</b></a> &nbsp;·&nbsp; <a href="https://github.com/upFrontEnd/sephora-memory-card-game">View code</a></p>
+      <p>
+  <a href="https://sephora-memory-card-game.netlify.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-4f9bff?style=for-the-badge&logo=googlechrome&logoColor=ffffff" alt="Live demo" /></a>
+  <a href="https://github.com/upFrontEnd/sephora-memory-card-game"><img src="https://img.shields.io/badge/CODE-1d2533?style=for-the-badge&logo=github&logoColor=ffffff" alt="Code" /></a>
+</p>
     </td>
     <td width="50%" valign="middle">
       <a href="https://sephora-memory-card-game.netlify.app/"><img src="./assets/projects/sephora-memory-game.jpg" width="100%" alt="Sephora memory game screenshot" /></a>
@@ -65,10 +71,13 @@
       <a href="https://git-memento.netlify.app/"><img src="./assets/projects/git-memento.jpg" width="100%" alt="Git Memento screenshot" /></a>
     </td>
     <td width="50%" valign="middle">
-      <h3><a href="https://github.com/upFrontEnd/git-memento">Git Memento</a></h3>
+      <h3>Git Memento</h3>
       <p>Everyday Git commands sorted by topic, each with a copy button, in light and dark themes.</p>
       <p><code>JavaScript · HTML · CSS</code></p>
-      <p><a href="https://git-memento.netlify.app/"><b>Try it live →</b></a> &nbsp;·&nbsp; <a href="https://github.com/upFrontEnd/git-memento">View code</a></p>
+      <p>
+  <a href="https://git-memento.netlify.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-4f9bff?style=for-the-badge&logo=googlechrome&logoColor=ffffff" alt="Live demo" /></a>
+  <a href="https://github.com/upFrontEnd/git-memento"><img src="https://img.shields.io/badge/CODE-1d2533?style=for-the-badge&logo=github&logoColor=ffffff" alt="Code" /></a>
+</p>
     </td>
   </tr>
 </table>
