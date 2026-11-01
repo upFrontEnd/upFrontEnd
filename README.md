@@ -29,7 +29,23 @@
   <img src="https://skillicons.dev/icons?i=git,github,supabase,nodejs,vscode&theme=dark&perline=5" alt="Git, GitHub, Supabase, Node.js, VS Code" />
 </p>
 
-## Featured project
+## Featured projects
+
+<p align="center">
+  <a href="https://www.skyflyer-aviation.com/"><img src="./assets/projects/skyflyer-website.jpg" width="70%" alt="Skyflyer Aviation: home page of the flight-sim streaming website." /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/upFrontEnd/skyflyer-aviation-website"><b>Skyflyer Aviation</b></a>: flight-sim streaming website with live status, projects and shop. <a href="https://www.skyflyer-aviation.com/">Try it live →</a>
+</p>
+
+<p align="center">
+  <a href="https://sephora-memory-card-game.netlify.app/"><img src="./assets/projects/sephora-memory-game.jpg" width="70%" alt="Sephora memory game: a grid of face-down cards." /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/upFrontEnd/sephora-memory-card-game"><b>Sephora Memory Game</b></a>: memory card game with a dark theme and sound toggle. <a href="https://sephora-memory-card-game.netlify.app/">Try it live →</a>
+</p>
 
 <p align="center">
   <a href="https://git-memento.netlify.app/"><img src="./assets/projects/git-memento.jpg" width="70%" alt="Git Memento: Git commands sorted by topic, each with a copy button." /></a>
