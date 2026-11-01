@@ -1,15 +1,9 @@
 <p align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Adel Kamel — Graphic designer turned front-end developer, based in Paris. Animated panels for design, code and flight-sim stream overlays." />
+  <img src="./assets/hero.svg" width="100%" alt="Technique &amp; design en harmonie. Adel Kamel, graphic designer turned front-end developer, based in Paris. UX/UI, accessibility, performance." />
 </p>
 
 <p align="center">
   <b>🟢 Open to front-end projects &amp; collaborations</b>
-</p>
-
-<p align="center">
-  <a href="https://www.skyflyer-aviation.com/"><img src="https://img.shields.io/badge/WEBSITE-e3a812?style=for-the-badge&logo=googlechrome&logoColor=1c1b1c" alt="Website" /></a>
-  <a href="https://www.twitch.tv/skyflyeraviation"><img src="https://img.shields.io/badge/TWITCH-2a2829?style=for-the-badge&logo=twitch&logoColor=f57c20" alt="Twitch" /></a>
-  <a href="https://discord.com/invite/7b8kKh55sG"><img src="https://img.shields.io/badge/DISCORD-2a2829?style=for-the-badge&logo=discord&logoColor=f57c20" alt="Discord" /></a>
 </p>
 
 <br />
@@ -36,32 +30,21 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/MSFS-2a2829?style=flat-square&logo=xbox&logoColor=e3a812" alt="Microsoft Flight Simulator" />
-  <img src="https://img.shields.io/badge/X--PLANE-2a2829?style=flat-square&logo=x&logoColor=e3a812" alt="X-Plane" />
-  <img src="https://img.shields.io/badge/OBS_STUDIO-2a2829?style=flat-square&logo=obsstudio&logoColor=e3a812" alt="OBS Studio" />
-  <img src="https://img.shields.io/badge/SIMBRIEF_%26_NAVIGRAPH-2a2829?style=flat-square&logo=googlemaps&logoColor=e3a812" alt="SimBrief and Navigraph" />
+  <img src="https://img.shields.io/badge/MSFS-1d2533?style=flat-square&logo=xbox&logoColor=4cc3f5" alt="Microsoft Flight Simulator" />
+  <img src="https://img.shields.io/badge/X--PLANE-1d2533?style=flat-square&logo=x&logoColor=4cc3f5" alt="X-Plane" />
+  <img src="https://img.shields.io/badge/OBS_STUDIO-1d2533?style=flat-square&logo=obsstudio&logoColor=4cc3f5" alt="OBS Studio" />
+  <img src="https://img.shields.io/badge/SIMBRIEF_%26_NAVIGRAPH-1d2533?style=flat-square&logo=googlemaps&logoColor=4cc3f5" alt="SimBrief and Navigraph" />
 </p>
 
-## Featured work
+## Featured project
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://www.skyflyer-aviation.com/"><img src="./assets/projects/skyflyer-website.jpg" alt="Skyflyer Aviation website: home page with a night airport hero and the live stream status." /></a>
-      <h3><a href="https://github.com/upFrontEnd/skyflyer-aviation-website">Skyflyer Aviation</a></h3>
-      <p>Showcase site for my flight-sim Twitch and YouTube channel. Live stream status, Zulu clock, projects and shop.</p>
-      <p><code>Vue 3</code> <code>Vite</code> <code>SCSS</code> <code>Supabase</code></p>
-      <p><a href="https://www.skyflyer-aviation.com/"><b>Visit the site →</b></a></p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://git-memento.netlify.app/"><img src="./assets/projects/git-memento.jpg" alt="Git Memento: Git commands sorted by topic, each with a copy button." /></a>
-      <h3><a href="https://github.com/upFrontEnd/git-memento">Git Memento</a></h3>
-      <p>Everyday Git commands sorted by topic, copied in one click. Light and dark themes.</p>
-      <p><code>JavaScript</code> <code>HTML</code> <code>CSS</code></p>
-      <p><a href="https://git-memento.netlify.app/"><b>Try it live →</b></a></p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://git-memento.netlify.app/"><img src="./assets/projects/git-memento.jpg" width="70%" alt="Git Memento: Git commands sorted by topic, each with a copy button." /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/upFrontEnd/git-memento"><b>Git Memento</b></a>: everyday Git commands sorted by topic, copied in one click. <a href="https://git-memento.netlify.app/">Try it live →</a>
+</p>
 
 ## Flight-sim stream toolkit
 
@@ -90,7 +73,7 @@ Everything on screen during my streams is built by hand: overlays for OBS, alert
 <br />
 
 <p align="center">
-  <a href="https://www.skyflyer-aviation.com/">
-    <img src="./assets/contact.svg" width="100%" alt="Let's build something together: websites, interfaces, branding and stream overlays. Visit skyflyer-aviation.com." />
+  <a href="https://www.linkedin.com/in/adel-kamel-dev/">
+    <img src="./assets/contact.svg" width="100%" alt="Let's build something together: websites, interfaces, branding and stream overlays. Say hello on LinkedIn." />
   </a>
 </p>

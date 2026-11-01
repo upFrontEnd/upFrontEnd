@@ -1,40 +1,38 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="200" viewBox="0 0 1200 200" role="img" aria-labelledby="t d">
   <title id="t">Let's work together</title>
-  <desc id="d">Websites, interfaces and stream overlays. Get in touch through skyflyer-aviation.com.</desc>
+  <desc id="d">Websites, interfaces and stream overlays. Get in touch on LinkedIn.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#e3a812" stop-opacity=".22"/>
-      <stop offset=".55" stop-color="#2a2829"/>
-      <stop offset="1" stop-color="#1c1b1c"/>
+      <stop offset="0" stop-color="#009fe3" stop-opacity=".28"/>
+      <stop offset=".55" stop-color="#1b2230"/>
+      <stop offset="1" stop-color="#11151c"/>
     </linearGradient>
-    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#d19e1d"/>
-      <stop offset=".5" stop-color="#ffd86e"/>
-      <stop offset="1" stop-color="#e3a812"/>
+    <linearGradient id="sky" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0077b6"/>
+      <stop offset="1" stop-color="#009fe3"/>
     </linearGradient>
     <style>
       text { font-family: 'Segoe UI', Inter, Helvetica, Arial, sans-serif; }
-      .plane { animation: bob 3s ease-in-out infinite; }
-      @keyframes bob { 50% { transform: translateY(-6px) } }
-      @media (prefers-reduced-motion: reduce) { .plane { animation: none } }
-    </style>
+          </style>
   </defs>
 
-  <rect width="1200" height="200" rx="18" fill="#1c1b1c"/>
-  <rect width="1200" height="200" rx="18" fill="url(#bg)" stroke="#ffffff" stroke-opacity=".14"/>
-  <rect width="6" height="200" rx="3" fill="#e3a812"/>
+  <rect width="1200" height="200" rx="18" fill="#11151c"/>
+  <rect x=".5" y=".5" width="1199" height="199" rx="17.5" fill="url(#bg)" stroke="#323a5c"/>
+  <clipPath id="card"><rect width="1200" height="200" rx="18"/></clipPath>
+  <g clip-path="url(#card)">
+    <rect width="6" height="100" fill="#009fe3"/>
+    <rect y="100" width="6" height="100" fill="#b55b16"/>
+  </g>
 
   <text x="48" y="80" fill="#ffffff" font-size="34" font-weight="700">Let's build something together.</text>
-  <text x="48" y="118" fill="#c3d0d9" font-size="18">Websites, interfaces, branding and stream overlays.</text>
-  <rect x="48" y="140" width="250" height="36" rx="18" fill="url(#gold)"/>
-  <text x="173" y="164" fill="#1c1b1c" font-size="15" font-weight="700" text-anchor="middle">skyflyer-aviation.com →</text>
+  <text x="48" y="118" fill="#c3d0d9" font-size="18">Websites, interfaces, branding and stream overlays. Say hello on LinkedIn.</text>
 
-  <g class="plane">
-    <g transform="translate(1040 100) scale(1.1)"><g fill="#ffd86e" opacity="0.9">
+  <path d="M760 100 H960" stroke="#4cc3f5" stroke-opacity=".35" stroke-width="3" stroke-dasharray="10 12"/>
+  <g>
+    <g transform="translate(1040 100) scale(1.1)"><g fill="#4cc3f5">
       <rect x="-60" y="-6" width="124" height="12" rx="6"/>
       <path d="M12 -5 L-14 -48 H-26 L-12 -5 Z M12 5 L-14 48 H-26 L-12 5 Z"/>
       <path d="M-46 -5 L-58 -22 H-66 L-58 -5 Z M-46 5 L-58 22 H-66 L-58 5 Z"/>
     </g></g>
   </g>
-  <path d="M760 100 H960" stroke="#ffd86e" stroke-opacity=".35" stroke-width="3" stroke-dasharray="10 12"/>
 </svg>
