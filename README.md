@@ -29,14 +29,6 @@
   <img src="https://skillicons.dev/icons?i=git,github,supabase,nodejs,vscode&theme=dark&perline=5" alt="Git, GitHub, Supabase, Node.js, VS Code" />
 </p>
 
-<p align="center"><sub><b>FLIGHT SIM &amp; STREAMING</b></sub></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/MSFS-1d2533?style=flat-square&logo=xbox&logoColor=4cc3f5" alt="Microsoft Flight Simulator" />
-  <img src="https://img.shields.io/badge/X--PLANE-1d2533?style=flat-square&logo=x&logoColor=4cc3f5" alt="X-Plane" />
-  <img src="https://img.shields.io/badge/OBS_STUDIO-1d2533?style=flat-square&logo=obsstudio&logoColor=4cc3f5" alt="OBS Studio" />
-  <img src="https://img.shields.io/badge/SIMBRIEF_%26_NAVIGRAPH-1d2533?style=flat-square&logo=googlemaps&logoColor=4cc3f5" alt="SimBrief and Navigraph" />
-</p>
-
 ## Featured project
 
 <p align="center">
