@@ -6,6 +6,10 @@
   <b>🟢 Open to front-end projects &amp; collaborations</b>
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/adel-kamel-dev/"><img src="https://img.shields.io/badge/LINKEDIN-0b4ef5?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="LinkedIn" /></a>
+</p>
+
 <br />
 
 <p align="center">
