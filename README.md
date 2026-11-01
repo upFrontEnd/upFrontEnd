@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Technique &amp; design in harmony. Adel Kamel, graphic designer turned front-end developer, based in Paris. UX/UI, accessibility, performance." />
+  <img src="./assets/hero.svg?v=2" width="100%" alt="Technique &amp; design in harmony. Adel Kamel, graphic designer turned front-end developer, based in Paris. UX/UI, accessibility, performance." />
 </p>
 
 <p align="center">
@@ -9,7 +9,7 @@
 <br />
 
 <p align="center">
-  <img src="./assets/expertise.svg" width="100%" alt="What I do: UI design and branding, front-end development with Vue, SCSS and JavaScript, Twitch overlays and tools for flight-sim streaming." />
+  <img src="./assets/expertise.svg?v=2" width="100%" alt="What I do: UI design and branding, front-end development with Vue, SCSS and JavaScript, Twitch overlays and tools for flight-sim streaming." />
 </p>
 
 ## The tools behind the work
@@ -75,6 +75,6 @@ Everything on screen during my streams is built by hand: overlays for OBS, alert
 
 <p align="center">
   <a href="https://www.linkedin.com/in/adel-kamel-dev/">
-    <img src="./assets/contact.svg" width="100%" alt="Let's build something together: websites, interfaces, branding and stream overlays. Say hello on LinkedIn." />
+    <img src="./assets/contact.svg?v=2" width="100%" alt="Let's build something together: websites, interfaces, branding and stream overlays. Say hello on LinkedIn." />
   </a>
 </p>
