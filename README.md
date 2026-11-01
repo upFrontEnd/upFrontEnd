@@ -31,29 +31,47 @@
 
 ## Featured projects
 
-<p align="center">
-  <a href="https://www.skyflyer-aviation.com/"><img src="./assets/projects/skyflyer-website.jpg" width="70%" alt="Skyflyer Aviation: home page of the flight-sim streaming website." /></a>
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="middle">
+      <a href="https://www.skyflyer-aviation.com/"><img src="./assets/projects/skyflyer-website.jpg" width="100%" alt="Skyflyer Aviation website home page" /></a>
+    </td>
+    <td width="50%" valign="middle">
+      <h3><a href="https://github.com/upFrontEnd/skyflyer-aviation-website">Skyflyer Aviation</a></h3>
+      <p>The showcase site of my flight-sim Twitch and YouTube channel: live stream status, a Zulu clock, projects and a shop.</p>
+      <p><code>Vue 3 · SCSS · Supabase · Vite</code></p>
+      <p><a href="https://www.skyflyer-aviation.com/"><b>Try it live →</b></a> &nbsp;·&nbsp; <a href="https://github.com/upFrontEnd/skyflyer-aviation-website">View code</a></p>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <a href="https://github.com/upFrontEnd/skyflyer-aviation-website"><b>Skyflyer Aviation</b></a>: flight-sim streaming website with live status, projects and shop. <a href="https://www.skyflyer-aviation.com/">Try it live →</a>
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="middle">
+      <h3><a href="https://github.com/upFrontEnd/sephora-memory-card-game">Sephora Memory Game</a></h3>
+      <p>A memory card game with a dark theme and a sound toggle, built as a clean, minimal front-end exercise.</p>
+      <p><code>HTML · JavaScript · SCSS</code></p>
+      <p><a href="https://sephora-memory-card-game.netlify.app/"><b>Try it live →</b></a> &nbsp;·&nbsp; <a href="https://github.com/upFrontEnd/sephora-memory-card-game">View code</a></p>
+    </td>
+    <td width="50%" valign="middle">
+      <a href="https://sephora-memory-card-game.netlify.app/"><img src="./assets/projects/sephora-memory-game.jpg" width="100%" alt="Sephora memory game screenshot" /></a>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <a href="https://sephora-memory-card-game.netlify.app/"><img src="./assets/projects/sephora-memory-game.jpg" width="70%" alt="Sephora memory game: a grid of face-down cards." /></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/upFrontEnd/sephora-memory-card-game"><b>Sephora Memory Game</b></a>: memory card game with a dark theme and sound toggle. <a href="https://sephora-memory-card-game.netlify.app/">Try it live →</a>
-</p>
-
-<p align="center">
-  <a href="https://git-memento.netlify.app/"><img src="./assets/projects/git-memento.jpg" width="70%" alt="Git Memento: Git commands sorted by topic, each with a copy button." /></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/upFrontEnd/git-memento"><b>Git Memento</b></a>: everyday Git commands sorted by topic, copied in one click. <a href="https://git-memento.netlify.app/">Try it live →</a>
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="middle">
+      <a href="https://git-memento.netlify.app/"><img src="./assets/projects/git-memento.jpg" width="100%" alt="Git Memento screenshot" /></a>
+    </td>
+    <td width="50%" valign="middle">
+      <h3><a href="https://github.com/upFrontEnd/git-memento">Git Memento</a></h3>
+      <p>Everyday Git commands sorted by topic, each with a copy button, in light and dark themes.</p>
+      <p><code>JavaScript · HTML · CSS</code></p>
+      <p><a href="https://git-memento.netlify.app/"><b>Try it live →</b></a> &nbsp;·&nbsp; <a href="https://github.com/upFrontEnd/git-memento">View code</a></p>
+    </td>
+  </tr>
+</table>
 
 ## Flight-sim stream toolkit
 
