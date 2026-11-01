@@ -9,7 +9,7 @@
 <br />
 
 <p align="center">
-  <img src="./assets/expertise.svg?v=2" width="100%" alt="What I do: UI design and branding, front-end development with Vue, SCSS and JavaScript, Twitch overlays and tools for flight-sim streaming." />
+  <img src="./assets/expertise.svg?v=3" width="100%" alt="What I do: UI design and branding, front-end development with Vue, SCSS and JavaScript, Twitch overlays and tools for flight-sim streaming." />
 </p>
 
 ## The tools behind the work
