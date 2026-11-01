@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Technique &amp; design en harmonie. Adel Kamel, graphic designer turned front-end developer, based in Paris. UX/UI, accessibility, performance." />
+  <img src="./assets/hero.svg" width="100%" alt="Technique &amp; design in harmony. Adel Kamel, graphic designer turned front-end developer, based in Paris. UX/UI, accessibility, performance." />
 </p>
 
 <p align="center">
@@ -29,6 +29,7 @@
   <img src="https://skillicons.dev/icons?i=git,github,supabase,nodejs,vscode&theme=dark&perline=5" alt="Git, GitHub, Supabase, Node.js, VS Code" />
 </p>
 
+<p align="center"><sub><b>FLIGHT SIM &amp; STREAMING</b></sub></p>
 <p align="center">
   <img src="https://img.shields.io/badge/MSFS-1d2533?style=flat-square&logo=xbox&logoColor=4cc3f5" alt="Microsoft Flight Simulator" />
   <img src="https://img.shields.io/badge/X--PLANE-1d2533?style=flat-square&logo=x&logoColor=4cc3f5" alt="X-Plane" />
