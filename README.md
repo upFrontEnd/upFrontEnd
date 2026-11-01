@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/adel-kamel-dev/"><img src="https://img.shields.io/badge/LINKEDIN-0b4ef5?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/adel-kamel-dev/"><img src="https://img.shields.io/badge/LINKEDIN-009FE3?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="LinkedIn" /></a>
 </p>
 
 <br />
