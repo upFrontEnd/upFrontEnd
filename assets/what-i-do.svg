@@ -2,9 +2,13 @@
   <title id="t">What I do</title>
   <desc id="d">Three areas: UI design and branding, front-end development with Vue, SCSS and JavaScript, and Twitch overlays and tools for flight-sim streaming.</desc>
   <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#11151c"/>
+      <stop offset="1" stop-color="#1b2230"/>
+    </linearGradient>
     <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#e3a812" stop-opacity=".18"/>
-      <stop offset=".6" stop-color="#2a2829" stop-opacity=".96"/>
+      <stop offset="0" stop-color="#009fe3" stop-opacity=".2"/>
+      <stop offset=".6" stop-color="#1d2533" stop-opacity=".96"/>
     </linearGradient>
     <style>
       text { font-family: 'Segoe UI', Inter, Helvetica, Arial, sans-serif; }
@@ -15,32 +19,34 @@
     </style>
   </defs>
 
-  <rect width="1200" height="260" rx="18" fill="#1c1b1c"/>
+  <rect width="1200" height="260" rx="18" fill="url(#bg)"/>
+  <rect x=".5" y=".5" width="1199" height="259" rx="17.5" fill="none" stroke="#323a5c"/>
   <text x="40" y="52" fill="#ffffff" font-size="26" font-weight="700">What I do</text>
-  <rect x="40" y="64" width="64" height="3" rx="1.5" fill="#e3a812"/>
+  <rect x="40" y="64" width="44" height="3" rx="1.5" fill="#009fe3"/>
+  <rect x="88" y="64" width="20" height="3" rx="1.5" fill="#b55b16"/>
 
   <g class="card" transform="translate(40 92)">
-    <rect width="360" height="136" rx="12" fill="url(#panel)" stroke="#ffffff" stroke-opacity=".14"/>
-    <rect width="4" height="136" rx="2" fill="#e3a812"/>
-    <text x="24" y="36" fill="#f57c20" font-size="12" font-weight="700" letter-spacing="2">DESIGN</text>
+    <rect width="360" height="136" rx="12" fill="url(#panel)" stroke="#ffffff" stroke-opacity=".12"/>
+    <rect width="4" height="136" rx="2" fill="#009fe3"/>
+    <text x="24" y="36" fill="#4cc3f5" font-size="12" font-weight="700" letter-spacing="2">DESIGN</text>
     <text x="24" y="66" fill="#ffffff" font-size="20" font-weight="600">UI design &amp; branding</text>
     <text x="24" y="94" fill="#c3d0d9" font-size="15">Logos, banners and interfaces,</text>
     <text x="24" y="116" fill="#c3d0d9" font-size="15">from the first sketch to the pixel.</text>
   </g>
 
   <g class="card c2" transform="translate(420 92)">
-    <rect width="360" height="136" rx="12" fill="url(#panel)" stroke="#ffffff" stroke-opacity=".14"/>
-    <rect width="4" height="136" rx="2" fill="#e3a812"/>
-    <text x="24" y="36" fill="#f57c20" font-size="12" font-weight="700" letter-spacing="2">FRONT-END</text>
+    <rect width="360" height="136" rx="12" fill="url(#panel)" stroke="#ffffff" stroke-opacity=".12"/>
+    <rect width="4" height="136" rx="2" fill="#009fe3"/>
+    <text x="24" y="36" fill="#4cc3f5" font-size="12" font-weight="700" letter-spacing="2">FRONT-END</text>
     <text x="24" y="66" fill="#ffffff" font-size="20" font-weight="600">Websites &amp; interfaces</text>
     <text x="24" y="94" fill="#c3d0d9" font-size="15">Vue, SCSS and JavaScript,</text>
     <text x="24" y="116" fill="#c3d0d9" font-size="15">responsive and accessible.</text>
   </g>
 
   <g class="card c3" transform="translate(800 92)">
-    <rect width="360" height="136" rx="12" fill="url(#panel)" stroke="#ffffff" stroke-opacity=".14"/>
-    <rect width="4" height="136" rx="2" fill="#e3a812"/>
-    <text x="24" y="36" fill="#f57c20" font-size="12" font-weight="700" letter-spacing="2">STREAMING</text>
+    <rect width="360" height="136" rx="12" fill="url(#panel)" stroke="#ffffff" stroke-opacity=".12"/>
+    <rect width="4" height="136" rx="2" fill="#009fe3"/>
+    <text x="24" y="36" fill="#4cc3f5" font-size="12" font-weight="700" letter-spacing="2">STREAMING</text>
     <text x="24" y="66" fill="#ffffff" font-size="20" font-weight="600">Overlays &amp; Twitch tools</text>
     <text x="24" y="94" fill="#c3d0d9" font-size="15">OBS overlays, alerts and chat bots</text>
     <text x="24" y="116" fill="#c3d0d9" font-size="15">for flight-sim streams.</text>
