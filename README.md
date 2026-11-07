@@ -106,5 +106,5 @@ Everything on screen during my streams is built by hand: overlays for OBS, alert
 
 | Project | Idea | Links |
 | --- | --- | :---: |
-| **video-scroll** | The mouse wheel scrubs through a video. | [![Live demo](https://img.shields.io/badge/LIVE_DEMO-4f9bff?style=for-the-badge&logo=googlechrome&logoColor=ffffff)](https://video-scrolling.netlify.app) [![Code](https://img.shields.io/badge/CODE-1d2533?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/upFrontEnd/video-scroll) |
-| **like-heart** | Animated "like" heart made with `steps()` and a sprite sheet. | [![Live demo](https://img.shields.io/badge/LIVE_DEMO-4f9bff?style=for-the-badge&logo=googlechrome&logoColor=ffffff)](https://step-like-heart.netlify.app) [![Code](https://img.shields.io/badge/CODE-1d2533?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/upFrontEnd/like-heart) |
+| **video-scroll** | The mouse wheel scrubs through a video. | [![Demo](https://img.shields.io/badge/DEMO-4f9bff?style=for-the-badge)](https://video-scrolling.netlify.app) [![Code](https://img.shields.io/badge/CODE-1d2533?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/upFrontEnd/video-scroll) |
+| **like-heart** | Animated "like" heart made with `steps()` and a sprite sheet. | [![Demo](https://img.shields.io/badge/DEMO-4f9bff?style=for-the-badge)](https://step-like-heart.netlify.app) [![Code](https://img.shields.io/badge/CODE-1d2533?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/upFrontEnd/like-heart) |
