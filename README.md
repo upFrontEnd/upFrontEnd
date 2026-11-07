@@ -45,7 +45,7 @@
       <p>The showcase site of my flight-sim Twitch and YouTube channel: live stream status, a Zulu clock, projects and a shop.</p>
       <p><code>Vue 3 · SCSS · Supabase · Vite</code></p>
       <p>
-  <a href="https://www.skyflyer-aviation.com/"><img src="https://img.shields.io/badge/LIVE_DEMO-4f9bff?style=for-the-badge&logo=googlechrome&logoColor=ffffff" alt="Live demo" /></a>
+  <a href="https://www.skyflyer-aviation.com/"><img src="https://img.shields.io/badge/DEMO-4f9bff?style=for-the-badge" alt="Demo" /></a>
   <a href="https://github.com/upFrontEnd/skyflyer-aviation-website"><img src="https://img.shields.io/badge/CODE-1d2533?style=for-the-badge&logo=github&logoColor=ffffff" alt="Code" /></a>
 </p>
     </td>
@@ -59,7 +59,7 @@
       <p>A memory card game with a dark theme and a sound toggle, built as a clean, minimal front-end exercise.</p>
       <p><code>HTML · JavaScript · SCSS</code></p>
       <p>
-  <a href="https://sephora-memory-card-game.netlify.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-4f9bff?style=for-the-badge&logo=googlechrome&logoColor=ffffff" alt="Live demo" /></a>
+  <a href="https://sephora-memory-card-game.netlify.app/"><img src="https://img.shields.io/badge/DEMO-4f9bff?style=for-the-badge" alt="Demo" /></a>
   <a href="https://github.com/upFrontEnd/sephora-memory-card-game"><img src="https://img.shields.io/badge/CODE-1d2533?style=for-the-badge&logo=github&logoColor=ffffff" alt="Code" /></a>
 </p>
     </td>
@@ -79,7 +79,7 @@
       <p>Everyday Git commands sorted by topic, each with a copy button, in light and dark themes.</p>
       <p><code>JavaScript · HTML · CSS</code></p>
       <p>
-  <a href="https://git-memento.netlify.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-4f9bff?style=for-the-badge&logo=googlechrome&logoColor=ffffff" alt="Live demo" /></a>
+  <a href="https://git-memento.netlify.app/"><img src="https://img.shields.io/badge/DEMO-4f9bff?style=for-the-badge" alt="Demo" /></a>
   <a href="https://github.com/upFrontEnd/git-memento"><img src="https://img.shields.io/badge/CODE-1d2533?style=for-the-badge&logo=github&logoColor=ffffff" alt="Code" /></a>
 </p>
     </td>
@@ -96,7 +96,7 @@ Everything on screen during my streams is built by hand: overlays for OBS, alert
 
 | Project | What it does | Stack | Repo |
 | --- | --- | --- | :---: |
-| **stream-inflight-overlay** | Live flight bar for OBS (callsign, route, phase, aircraft). StreamFlight data coming next. | `Vue 3 · Vite · SCSS` | [![Code](https://img.shields.io/badge/CODE-1d2533?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/upFrontEnd/stream-inflight-overlay) |
+| **stream-inflight-overlay** | Live flight bar for OBS (callsign, route, phase, aircraft). | `Vue 3 · Vite · SCSS` | [![Code](https://img.shields.io/badge/CODE-1d2533?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/upFrontEnd/stream-inflight-overlay) |
 | **stream-inflight-command** | Twitch bot with flight commands (`!vol`, `!meteo`, `!eta`…) fed by the day's SimBrief flight plan. | `JavaScript` | [![Code](https://img.shields.io/badge/CODE-1d2533?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/upFrontEnd/stream-inflight-command) |
 | **stream-navi-overlay** | Cockpit-style frame showing a Navigraph map and the current airline logo. | `HTML · SCSS · JS` | [![Code](https://img.shields.io/badge/CODE-1d2533?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/upFrontEnd/stream-navi-overlay) |
 | **stream-alerts** | Twitch alerts overlay. | `Bun · Vite · SCSS · JS` | [![Code](https://img.shields.io/badge/CODE-1d2533?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/upFrontEnd/stream-alerts) |
