@@ -20,7 +20,7 @@
 
 <p align="center"><sub><b>FRONT-END</b></sub></p>
 <p align="center">
-  <img src="./assets/icons/vue.svg?v=2" height="48" alt="Vue" /> <img src="https://skillicons.dev/icons?i=js,html,css,sass,vite,bun&theme=dark&perline=6" alt="JavaScript, HTML, CSS, Sass, Vite, Bun" />
+  <img src="https://raw.githubusercontent.com/upFrontEnd/upFrontEnd/2eb2b67/assets/icons/vue.svg" height="48" alt="Vue" /> <img src="https://skillicons.dev/icons?i=js,html,css,sass,vite,bun&theme=dark&perline=6" alt="JavaScript, HTML, CSS, Sass, Vite, Bun" />
 </p>
 
 <p align="center"><sub><b>DESIGN</b></sub></p>
@@ -43,7 +43,7 @@
     <td width="50%" valign="middle">
       <h3>Skyflyer Aviation</h3>
       <p>The showcase site of my flight-sim Twitch and YouTube channel: live stream status, a Zulu clock, projects and a shop.</p>
-      <p><img src="./assets/icons/vue.svg?v=2" height="22" alt="Vue" /> <img src="https://skillicons.dev/icons?i=sass,supabase,vite&theme=dark" height="22" alt="Sass, Supabase, Vite" /></p>
+      <p><img src="https://raw.githubusercontent.com/upFrontEnd/upFrontEnd/2eb2b67/assets/icons/vue.svg" height="22" alt="Vue" /> <img src="https://skillicons.dev/icons?i=sass,supabase,vite&theme=dark" height="22" alt="Sass, Supabase, Vite" /></p>
       <p>
   <a href="https://www.skyflyer-aviation.com/"><img src="https://img.shields.io/badge/DEMO-4f9bff?style=for-the-badge" alt="Demo" /></a>
   <a href="https://github.com/upFrontEnd/skyflyer-aviation-website"><img src="https://img.shields.io/badge/CODE-1d2533?style=for-the-badge" alt="Code" /></a>
@@ -96,8 +96,8 @@ Everything on screen during my streams is built by hand: overlays for OBS, alert
 
 | Project | What it does | Stack | Repo |
 | --- | --- | --- | :---: |
-| **stream-inflight-overlay** | Live flight bar for OBS (callsign, route, phase, aircraft). | <img src="./assets/icons/vue.svg?v=2" height="22" alt="Vue" /> <img src="https://skillicons.dev/icons?i=vite,sass&theme=dark" height="22" alt="Vite, Sass" /> | [![Code](https://img.shields.io/badge/CODE-1d2533?style=for-the-badge)](https://github.com/upFrontEnd/stream-inflight-overlay) |
+| **stream-inflight-overlay** | Live flight bar for OBS (callsign, route, phase, aircraft). | <img src="https://raw.githubusercontent.com/upFrontEnd/upFrontEnd/2eb2b67/assets/icons/vue.svg" height="22" alt="Vue" /> <img src="https://skillicons.dev/icons?i=vite,sass&theme=dark" height="22" alt="Vite, Sass" /> | [![Code](https://img.shields.io/badge/CODE-1d2533?style=for-the-badge)](https://github.com/upFrontEnd/stream-inflight-overlay) |
 | **stream-inflight-command** | Twitch bot with flight commands (`!vol`, `!meteo`, `!eta`…) fed by the day's SimBrief flight plan. | <img src="https://skillicons.dev/icons?i=js&theme=dark" height="22" alt="JavaScript" /> | [![Code](https://img.shields.io/badge/CODE-1d2533?style=for-the-badge)](https://github.com/upFrontEnd/stream-inflight-command) |
-| **stream-navi-overlay** | Cockpit-style frame showing a Navigraph map and the current airline logo. | <img src="./assets/icons/vue.svg?v=2" height="22" alt="Vue" /> <img src="https://skillicons.dev/icons?i=html,sass,js&theme=dark" height="22" alt="HTML, Sass, JavaScript" /> | [![Code](https://img.shields.io/badge/CODE-1d2533?style=for-the-badge)](https://github.com/upFrontEnd/stream-navi-overlay) |
+| **stream-navi-overlay** | Cockpit-style frame showing a Navigraph map and the current airline logo. | <img src="https://raw.githubusercontent.com/upFrontEnd/upFrontEnd/2eb2b67/assets/icons/vue.svg" height="22" alt="Vue" /> <img src="https://skillicons.dev/icons?i=html,sass,js&theme=dark" height="22" alt="HTML, Sass, JavaScript" /> | [![Code](https://img.shields.io/badge/CODE-1d2533?style=for-the-badge)](https://github.com/upFrontEnd/stream-navi-overlay) |
 | **stream-alerts** | Twitch alerts overlay. | <img src="https://skillicons.dev/icons?i=bun,vite,sass,js&theme=dark" height="22" alt="Bun, Vite, Sass, JavaScript" /> | [![Code](https://img.shields.io/badge/CODE-1d2533?style=for-the-badge)](https://github.com/upFrontEnd/stream-alerts) |
 | **stream-chat** | Custom chat widget for Streamlabs and OBS, with slide-in animations. | <img src="https://skillicons.dev/icons?i=bun,vite,sass&theme=dark" height="22" alt="Bun, Vite, Sass" /> | [![Code](https://img.shields.io/badge/CODE-1d2533?style=for-the-badge)](https://github.com/upFrontEnd/stream-chat) |
