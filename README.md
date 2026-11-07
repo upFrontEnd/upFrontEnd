@@ -94,13 +94,13 @@ Everything on screen during my streams is built by hand: overlays for OBS, alert
   <a href="https://github.com/upFrontEnd/stream-inflight-overlay"><img src="./assets/projects/inflight-overlay.png" width="100%" alt="In-flight overlay: a top bar with callsign, network, departure, arrival, progress, flight phase, aircraft, last follower and latest sub." /></a>
 </p>
 
-| Project | What it does | Stack |
-| --- | --- | --- |
-| [**stream-inflight-overlay**](https://github.com/upFrontEnd/stream-inflight-overlay) | Live flight bar for OBS (callsign, route, phase, aircraft). StreamFlight data coming next. | Vue 3 · Vite · SCSS |
-| [**stream-inflight-command**](https://github.com/upFrontEnd/stream-inflight-command) | Twitch bot with flight commands (`!vol`, `!meteo`, `!eta`…) fed by the day's SimBrief flight plan. | JavaScript |
-| [**stream-navi-overlay**](https://github.com/upFrontEnd/stream-navi-overlay) | Cockpit-style frame showing a Navigraph map and the current airline logo. | HTML · SCSS · JS |
-| [**stream-alerts**](https://github.com/upFrontEnd/stream-alerts) | Twitch alerts overlay. | Bun · Vite · SCSS · JS |
-| [**stream-chat**](https://github.com/upFrontEnd/stream-chat) | Custom chat widget for Streamlabs and OBS, with slide-in animations. | Bun · Vite · SCSS |
+| Project | What it does | Stack | Repo |
+| --- | --- | --- | :---: |
+| **stream-inflight-overlay** | Live flight bar for OBS (callsign, route, phase, aircraft). StreamFlight data coming next. | `Vue 3 · Vite · SCSS` | [![Code](https://img.shields.io/badge/CODE-1d2533?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/upFrontEnd/stream-inflight-overlay) |
+| **stream-inflight-command** | Twitch bot with flight commands (`!vol`, `!meteo`, `!eta`…) fed by the day's SimBrief flight plan. | `JavaScript` | [![Code](https://img.shields.io/badge/CODE-1d2533?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/upFrontEnd/stream-inflight-command) |
+| **stream-navi-overlay** | Cockpit-style frame showing a Navigraph map and the current airline logo. | `HTML · SCSS · JS` | [![Code](https://img.shields.io/badge/CODE-1d2533?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/upFrontEnd/stream-navi-overlay) |
+| **stream-alerts** | Twitch alerts overlay. | `Bun · Vite · SCSS · JS` | [![Code](https://img.shields.io/badge/CODE-1d2533?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/upFrontEnd/stream-alerts) |
+| **stream-chat** | Custom chat widget for Streamlabs and OBS, with slide-in animations. | `Bun · Vite · SCSS` | [![Code](https://img.shields.io/badge/CODE-1d2533?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/upFrontEnd/stream-chat) |
 
 ## Web experiments
 
