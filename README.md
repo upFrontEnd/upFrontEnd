@@ -30,7 +30,7 @@
 
 <p align="center"><sub><b>WORKFLOW &amp; BACKEND</b></sub></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,supabase,nodejs,vscode&theme=dark&perline=5" alt="Git, GitHub, Supabase, Node.js, VS Code" />
+  <img src="https://skillicons.dev/icons?i=git,github,supabase,nodejs&theme=dark&perline=4" alt="Git, GitHub, Supabase, Node.js" />
 </p>
 
 ## Featured projects
