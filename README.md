@@ -101,10 +101,3 @@ Everything on screen during my streams is built by hand: overlays for OBS, alert
 | **stream-navi-overlay** | Cockpit-style frame showing a Navigraph map and the current airline logo. | <img src="https://skillicons.dev/icons?i=vue,html,sass,js&theme=dark" height="22" alt="Vue, HTML, Sass, JavaScript" /> | [![Code](https://img.shields.io/badge/CODE-1d2533?style=for-the-badge)](https://github.com/upFrontEnd/stream-navi-overlay) |
 | **stream-alerts** | Twitch alerts overlay. | <img src="https://skillicons.dev/icons?i=bun,vite,sass,js&theme=dark" height="22" alt="Bun, Vite, Sass, JavaScript" /> | [![Code](https://img.shields.io/badge/CODE-1d2533?style=for-the-badge)](https://github.com/upFrontEnd/stream-alerts) |
 | **stream-chat** | Custom chat widget for Streamlabs and OBS, with slide-in animations. | <img src="https://skillicons.dev/icons?i=bun,vite,sass&theme=dark" height="22" alt="Bun, Vite, Sass" /> | [![Code](https://img.shields.io/badge/CODE-1d2533?style=for-the-badge)](https://github.com/upFrontEnd/stream-chat) |
-
-## Web experiments
-
-| Project | Idea | Links |
-| --- | --- | :---: |
-| **video-scroll** | The mouse wheel scrubs through a video. | [![Demo](https://img.shields.io/badge/DEMO-4f9bff?style=for-the-badge)](https://video-scrolling.netlify.app) [![Code](https://img.shields.io/badge/CODE-1d2533?style=for-the-badge)](https://github.com/upFrontEnd/video-scroll) |
-| **like-heart** | Animated "like" heart made with `steps()` and a sprite sheet. | [![Demo](https://img.shields.io/badge/DEMO-4f9bff?style=for-the-badge)](https://step-like-heart.netlify.app) [![Code](https://img.shields.io/badge/CODE-1d2533?style=for-the-badge)](https://github.com/upFrontEnd/like-heart) |
