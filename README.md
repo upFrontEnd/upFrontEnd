@@ -43,7 +43,7 @@
     <td width="50%" valign="middle">
       <h3>Skyflyer Aviation</h3>
       <p>The showcase site of my flight-sim Twitch and YouTube channel: live stream status, a Zulu clock, projects and a shop.</p>
-      <p><img src="https://skillicons.dev/icons?i=vue,sass,supabase,vite&theme=dark" height="36" alt="Vue, Sass, Supabase, Vite" /></p>
+      <p><img src="https://skillicons.dev/icons?i=vue,sass,supabase,vite&theme=dark" height="22" alt="Vue, Sass, Supabase, Vite" /></p>
       <p>
   <a href="https://www.skyflyer-aviation.com/"><img src="https://img.shields.io/badge/DEMO-4f9bff?style=for-the-badge" alt="Demo" /></a>
   <a href="https://github.com/upFrontEnd/skyflyer-aviation-website"><img src="https://img.shields.io/badge/CODE-1d2533?style=for-the-badge" alt="Code" /></a>
@@ -57,7 +57,7 @@
     <td width="50%" valign="middle">
       <h3>Sephora Memory Game</h3>
       <p>A memory card game with a dark theme and a sound toggle, built as a clean, minimal front-end exercise.</p>
-      <p><img src="https://skillicons.dev/icons?i=html,js,sass&theme=dark" height="36" alt="HTML, JavaScript, Sass" /></p>
+      <p><img src="https://skillicons.dev/icons?i=html,js,sass&theme=dark" height="22" alt="HTML, JavaScript, Sass" /></p>
       <p>
   <a href="https://sephora-memory-card-game.netlify.app/"><img src="https://img.shields.io/badge/DEMO-4f9bff?style=for-the-badge" alt="Demo" /></a>
   <a href="https://github.com/upFrontEnd/sephora-memory-card-game"><img src="https://img.shields.io/badge/CODE-1d2533?style=for-the-badge" alt="Code" /></a>
@@ -77,7 +77,7 @@
     <td width="50%" valign="middle">
       <h3>Git Memento</h3>
       <p>Everyday Git commands sorted by topic, each with a copy button, in light and dark themes.</p>
-      <p><img src="https://skillicons.dev/icons?i=js,html,css&theme=dark" height="36" alt="JavaScript, HTML, CSS" /></p>
+      <p><img src="https://skillicons.dev/icons?i=js,html,css,sass&theme=dark" height="22" alt="JavaScript, HTML, CSS, Sass" /></p>
       <p>
   <a href="https://git-memento.netlify.app/"><img src="https://img.shields.io/badge/DEMO-4f9bff?style=for-the-badge" alt="Demo" /></a>
   <a href="https://github.com/upFrontEnd/git-memento"><img src="https://img.shields.io/badge/CODE-1d2533?style=for-the-badge" alt="Code" /></a>
@@ -96,11 +96,11 @@ Everything on screen during my streams is built by hand: overlays for OBS, alert
 
 | Project | What it does | Stack | Repo |
 | --- | --- | --- | :---: |
-| **stream-inflight-overlay** | Live flight bar for OBS (callsign, route, phase, aircraft). | <img src="https://skillicons.dev/icons?i=vue,vite,sass&theme=dark" height="28" alt="Vue, Vite, Sass" /> | [![Code](https://img.shields.io/badge/CODE-1d2533?style=for-the-badge)](https://github.com/upFrontEnd/stream-inflight-overlay) |
-| **stream-inflight-command** | Twitch bot with flight commands (`!vol`, `!meteo`, `!eta`…) fed by the day's SimBrief flight plan. | <img src="https://skillicons.dev/icons?i=js&theme=dark" height="28" alt="JavaScript" /> | [![Code](https://img.shields.io/badge/CODE-1d2533?style=for-the-badge)](https://github.com/upFrontEnd/stream-inflight-command) |
-| **stream-navi-overlay** | Cockpit-style frame showing a Navigraph map and the current airline logo. | <img src="https://skillicons.dev/icons?i=html,sass,js&theme=dark" height="28" alt="HTML, Sass, JavaScript" /> | [![Code](https://img.shields.io/badge/CODE-1d2533?style=for-the-badge)](https://github.com/upFrontEnd/stream-navi-overlay) |
-| **stream-alerts** | Twitch alerts overlay. | <img src="https://skillicons.dev/icons?i=bun,vite,sass,js&theme=dark" height="28" alt="Bun, Vite, Sass, JavaScript" /> | [![Code](https://img.shields.io/badge/CODE-1d2533?style=for-the-badge)](https://github.com/upFrontEnd/stream-alerts) |
-| **stream-chat** | Custom chat widget for Streamlabs and OBS, with slide-in animations. | <img src="https://skillicons.dev/icons?i=bun,vite,sass&theme=dark" height="28" alt="Bun, Vite, Sass" /> | [![Code](https://img.shields.io/badge/CODE-1d2533?style=for-the-badge)](https://github.com/upFrontEnd/stream-chat) |
+| **stream-inflight-overlay** | Live flight bar for OBS (callsign, route, phase, aircraft). | <img src="https://skillicons.dev/icons?i=vue,vite,sass&theme=dark" height="22" alt="Vue, Vite, Sass" /> | [![Code](https://img.shields.io/badge/CODE-1d2533?style=for-the-badge)](https://github.com/upFrontEnd/stream-inflight-overlay) |
+| **stream-inflight-command** | Twitch bot with flight commands (`!vol`, `!meteo`, `!eta`…) fed by the day's SimBrief flight plan. | <img src="https://skillicons.dev/icons?i=js&theme=dark" height="22" alt="JavaScript" /> | [![Code](https://img.shields.io/badge/CODE-1d2533?style=for-the-badge)](https://github.com/upFrontEnd/stream-inflight-command) |
+| **stream-navi-overlay** | Cockpit-style frame showing a Navigraph map and the current airline logo. | <img src="https://skillicons.dev/icons?i=html,sass,js&theme=dark" height="22" alt="HTML, Sass, JavaScript" /> | [![Code](https://img.shields.io/badge/CODE-1d2533?style=for-the-badge)](https://github.com/upFrontEnd/stream-navi-overlay) |
+| **stream-alerts** | Twitch alerts overlay. | <img src="https://skillicons.dev/icons?i=bun,vite,sass,js&theme=dark" height="22" alt="Bun, Vite, Sass, JavaScript" /> | [![Code](https://img.shields.io/badge/CODE-1d2533?style=for-the-badge)](https://github.com/upFrontEnd/stream-alerts) |
+| **stream-chat** | Custom chat widget for Streamlabs and OBS, with slide-in animations. | <img src="https://skillicons.dev/icons?i=bun,vite,sass&theme=dark" height="22" alt="Bun, Vite, Sass" /> | [![Code](https://img.shields.io/badge/CODE-1d2533?style=for-the-badge)](https://github.com/upFrontEnd/stream-chat) |
 
 ## Web experiments
 
