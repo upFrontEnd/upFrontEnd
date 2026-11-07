@@ -108,4 +108,3 @@ Everything on screen during my streams is built by hand: overlays for OBS, alert
 | --- | --- | --- |
 | [**video-scroll**](https://github.com/upFrontEnd/video-scroll) | The mouse wheel scrubs through a video. | [Live](https://video-scrolling.netlify.app) |
 | [**like-heart**](https://github.com/upFrontEnd/like-heart) | Animated "like" heart made with `steps()` and a sprite sheet. | [Live](https://step-like-heart.netlify.app) |
-| [**sephora-memory-card-game**](https://github.com/upFrontEnd/sephora-memory-card-game) | Memory card game with perfume bottles. | [Live](https://sephora-memory-card-game.netlify.app/) |
