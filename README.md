@@ -104,7 +104,29 @@ Everything on screen during my streams is built by hand: overlays for OBS, alert
 
 ## Web experiments
 
-| Project | Idea | Demo |
-| --- | --- | --- |
-| [**video-scroll**](https://github.com/upFrontEnd/video-scroll) | The mouse wheel scrubs through a video. | [Live](https://video-scrolling.netlify.app) |
-| [**like-heart**](https://github.com/upFrontEnd/like-heart) | Animated "like" heart made with `steps()` and a sprite sheet. | [Live](https://step-like-heart.netlify.app) |
+Small front-end experiments, each built around one technique.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://video-scrolling.netlify.app"><img src="./assets/projects/video-scroll.jpg" width="100%" alt="Video Scroll: a hand pointing at the text 'Pour commencer, faites défiler la page'" /></a>
+      <h3>Video Scroll</h3>
+      <p>The mouse wheel scrubs through a video, frame by frame. The page height is set from the video length, and <code>requestAnimationFrame</code> keeps playback in sync with the scroll. Text steps fade in as they enter the screen.</p>
+      <p><code>HTML · CSS · JavaScript</code></p>
+      <p>
+        <a href="https://video-scrolling.netlify.app"><img src="https://img.shields.io/badge/LIVE_DEMO-4f9bff?style=for-the-badge&logo=googlechrome&logoColor=ffffff" alt="Live demo" /></a>
+        <a href="https://github.com/upFrontEnd/video-scroll"><img src="https://img.shields.io/badge/CODE-1d2533?style=for-the-badge&logo=github&logoColor=ffffff" alt="Code" /></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://step-like-heart.netlify.app"><img src="./assets/projects/like-heart.png" width="100%" alt="Like Heart: grey and red hearts above the 28-frame sprite sheet of the animation" /></a>
+      <h3>Like Heart</h3>
+      <p>A Twitter-style “like” button animated in CSS: one 28-frame sprite sheet played with <code>steps(28)</code>. A click toggles the liked state, and the animation resets on <code>animationend</code>.</p>
+      <p><code>HTML · CSS · JavaScript</code></p>
+      <p>
+        <a href="https://step-like-heart.netlify.app"><img src="https://img.shields.io/badge/LIVE_DEMO-4f9bff?style=for-the-badge&logo=googlechrome&logoColor=ffffff" alt="Live demo" /></a>
+        <a href="https://github.com/upFrontEnd/like-heart"><img src="https://img.shields.io/badge/CODE-1d2533?style=for-the-badge&logo=github&logoColor=ffffff" alt="Code" /></a>
+      </p>
+    </td>
+  </tr>
+</table>
