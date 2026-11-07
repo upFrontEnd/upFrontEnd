@@ -30,7 +30,7 @@
 
 <p align="center"><sub><b>WORKFLOW &amp; BACKEND</b></sub></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,supabase,nodejs&theme=dark&perline=4" alt="Git, GitHub, Supabase, Node.js" />
+  <img src="https://skillicons.dev/icons?i=git,github,supabase,nodejs&theme=dark&perline=4" alt="Git, GitHub, Supabase, Node.js" /> <img src="./assets/icons/railway.svg" height="48" alt="Railway" />
 </p>
 
 ## Featured projects
