@@ -20,17 +20,17 @@
 
 <p align="center"><sub><b>FRONT-END</b></sub></p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/upFrontEnd/upFrontEnd/9dd68d9516fc807fc1ca949d8053a8017b3d1d80/assets/icons/vue.svg" height="48" alt="Vue" /> <img src="https://skillicons.dev/icons?i=js,html,css,sass,vite,bun&theme=dark&perline=6" alt="JavaScript, HTML, CSS, Sass, Vite, Bun" />
+  <a><img src="https://raw.githubusercontent.com/upFrontEnd/upFrontEnd/9dd68d9516fc807fc1ca949d8053a8017b3d1d80/assets/icons/vue.svg" height="48" alt="Vue" /></a> <a><img src="https://skillicons.dev/icons?i=js,html,css,sass,vite,bun&theme=dark&perline=6" alt="JavaScript, HTML, CSS, Sass, Vite, Bun" /></a>
 </p>
 
 <p align="center"><sub><b>DESIGN</b></sub></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,ps,ai&theme=dark&perline=3" alt="Figma, Photoshop, Illustrator" />
+  <a><img src="https://skillicons.dev/icons?i=figma,ps,ai&theme=dark&perline=3" alt="Figma, Photoshop, Illustrator" /></a>
 </p>
 
 <p align="center"><sub><b>WORKFLOW &amp; BACKEND</b></sub></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,supabase,nodejs&theme=dark&perline=4" alt="Git, GitHub, Supabase, Node.js" />
+  <a><img src="https://skillicons.dev/icons?i=git,github,supabase,nodejs&theme=dark&perline=4" alt="Git, GitHub, Supabase, Node.js" /></a>
 </p>
 
 ## Featured projects
